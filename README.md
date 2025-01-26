@@ -1,2 +1,2 @@
-# deilta-project
+# delta-project
 projects of web development
